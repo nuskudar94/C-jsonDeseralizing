@@ -1,0 +1,17 @@
+C:\Users\nusku\Desktop\csProject\bin\Debug\net8.0\csProject.exe
+C:\Users\nusku\Desktop\csProject\bin\Debug\net8.0\csProject.deps.json
+C:\Users\nusku\Desktop\csProject\bin\Debug\net8.0\csProject.runtimeconfig.json
+C:\Users\nusku\Desktop\csProject\bin\Debug\net8.0\csProject.dll
+C:\Users\nusku\Desktop\csProject\bin\Debug\net8.0\csProject.pdb
+C:\Users\nusku\Desktop\csProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nusku\Desktop\csProject\obj\Debug\net8.0\csProject.csproj.AssemblyReference.cache
+C:\Users\nusku\Desktop\csProject\obj\Debug\net8.0\csProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nusku\Desktop\csProject\obj\Debug\net8.0\csProject.AssemblyInfoInputs.cache
+C:\Users\nusku\Desktop\csProject\obj\Debug\net8.0\csProject.AssemblyInfo.cs
+C:\Users\nusku\Desktop\csProject\obj\Debug\net8.0\csProject.csproj.CoreCompileInputs.cache
+C:\Users\nusku\Desktop\csProject\obj\Debug\net8.0\csProject.csproj.CopyComplete
+C:\Users\nusku\Desktop\csProject\obj\Debug\net8.0\csProject.dll
+C:\Users\nusku\Desktop\csProject\obj\Debug\net8.0\refint\csProject.dll
+C:\Users\nusku\Desktop\csProject\obj\Debug\net8.0\csProject.pdb
+C:\Users\nusku\Desktop\csProject\obj\Debug\net8.0\csProject.genruntimeconfig.cache
+C:\Users\nusku\Desktop\csProject\obj\Debug\net8.0\ref\csProject.dll
